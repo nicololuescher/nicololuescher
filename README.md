@@ -13,8 +13,7 @@
     - Open Source
     - Tinkering
 - 🌱 I’m currently learning ...
-  - Python
-  - DSIOT
-  - Docker
+  - DevOps
+  - CI/CD
 - 💞️ I’m looking to collaborate on anything that solves real problems and contributes to the community
 - 📫 [LinkedIn](https://www.linkedin.com/in/nicolo-luescher/), [Twitter](https://twitter.com/nicololuescher)
